@@ -39,7 +39,5 @@ Contributions are welcome! Feel free to fork this repository, make your changes,
 - Thanks to Google for providing the YouTube Data API.
 - Special thanks to the developers of React JS and Material UI for their fantastic tools.
 
-### Contact
-For any inquiries or suggestions, feel free to contact the project maintainer at [your_email@example.com](mailto:your_email@example.com).
 
 ---
