@@ -1,4 +1,4 @@
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+![YouTube](https://i.hizliresim.com/22a44qp.png)
 ## Modern YouTube Clone Application in React JS with Material UI 5
 
 ### Introduction
