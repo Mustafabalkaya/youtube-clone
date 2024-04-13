@@ -13,7 +13,7 @@ This project aims to replicate the core functionalities of YouTube using React J
 1. **Browse Videos**: Users can browse through a list of videos fetched from YouTube's API.
 2. **Search Videos**: Users can search for specific videos by entering keywords.
 3. **Video Playback**: Users can play selected videos within the application.
-4. **Responsive Design**: The application is designed to work seamlessly across various screen sizes, including mobile devices.
+4. **Responsive Design**: The application is designed to work seamlessly across various screen sizes, including mobile devices. 
 
 ### Installation
 1. Clone this repository: `git clone https://github.com/Mustafabalkaya/youtube-clone.git`
